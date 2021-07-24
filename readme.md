@@ -1,5 +1,5 @@
 # Menu
-<img src="./images/demo.png">
+<img src="./images/demo.jpeg">
 
 ## URL
  https://rushkinrenny.github.io/Menu/
